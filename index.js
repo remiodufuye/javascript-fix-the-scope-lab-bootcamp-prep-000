@@ -5,7 +5,7 @@ function myAnimal() {
   return animal ; 
 } 
 
-var animanl = cat ; 
+var animanl = 'cat' ; 
 
 function yourAnimal() {
   // How can we make sure that this function
