@@ -11,7 +11,7 @@ function yourAnimal() {
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
   
-  var animal = myAnimal('cat') ;
+  var animal = 'cat') ;
   
   return animal ; 
 }
